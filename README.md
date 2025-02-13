@@ -22,6 +22,8 @@ I am passionate about data science, machine learning, and automation. With exper
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/your-handle)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/MedAmineElabidi)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineElabidi&layout=compact&theme=radical)
+
 ---
 
 🔹 *Always eager to collaborate on AI, automation, and data science projects!*  
