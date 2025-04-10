@@ -6,8 +6,7 @@ I am passionate about data science, machine learning, and automation. With exper
 
 ### 🏆 About Me  
 - 🎓 **Student** in Data Science & Software Engineering.  
-- 📊 **Data Analyst** with 2+ years of experience in **data-driven decision-making**.  
-- 🏢 **Founder of RapidFlow AI Agency**, optimizing businesses with AI.  
+- 📊 **Data Analyst** with 2+ years of experience in **data-driven decision-making**.
 - ⚽ **Football Analytics Enthusiast** – Working on **ML-based football formations analysis**.  
 - 📈 **Tech Stack:** Python, SQL, Power BI, Machine Learning, Web Scraping.  
 
