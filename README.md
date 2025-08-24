@@ -32,9 +32,9 @@ I specialize in orchestrating **Large Language Models** and **autonomous agent s
 <td width="40%" valign="top">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedAmineElabidi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡+Code+Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true&include_all_commits=true&custom_title=⚡+Code+Statistics" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MedAmineElabidi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F5FF&sideLabels=ffffff&dates=ffffff" />
 </div>
 
 </td>
@@ -265,19 +265,19 @@ ORDER BY avg_order DESC;
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineElabidi&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&card_width=400&custom_title=💻+Language+Mastery"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&card_width=400&custom_title=💻+Language+Mastery"/>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MedAmineElabidi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&custom_title=⏰+Coding+Time"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true&custom_title=📈+GitHub+Activity"/>
   
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MedAmineElabidi&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true&custom_title=🔥+Contribution+Heatmap" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00F5FF&line=00F5FF&point=ffffff&area=true&hide_border=true&custom_title=🔥+Contribution+Heatmap" />
 </div>
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAmineElabidi&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
   
 </div>
 
@@ -312,8 +312,8 @@ ORDER BY avg_order DESC;
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MedAmineElabidi&style=for-the-badge&color=00F5FF&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/MedAmineElabidi?style=for-the-badge&color=00F5FF&labelColor=0D1117&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00F5FF&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00F5FF&labelColor=0D1117&label=Followers" />
   <img src="https://img.shields.io/badge/Status-Available_for_Hire-brightgreen?style=for-the-badge" />
 </div>
 
