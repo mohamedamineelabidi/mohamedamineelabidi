@@ -291,16 +291,16 @@ class TacticalPredictor:
 
 <div align="center">
   
-**⚠️ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username below:**
+**⚠️ Note: Statistics are now configured with your GitHub username: mohamedamineelabidi**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedamineelabidi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamineelabidi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamineelabidi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -337,7 +337,7 @@ I'm actively seeking collaborations on cutting-edge AI projects, particularly in
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedamineelabidi&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
 
 ---
