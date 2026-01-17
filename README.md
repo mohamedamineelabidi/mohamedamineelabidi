@@ -31,7 +31,7 @@ class AIEngineer:
     def __init__(self):
         self.name = "Mohamed Amine Elabidi"
         self.role = "AI Agent Engineer @ Valhko"
-        self.location = "Fes, Morocco 🇲🇦"
+        self.location = "Rabat, Morocco 🇲🇦"
         self.expertise = {
             "ai": ["Multi-Agent Systems", "LLMs", "RAG"],
             "ops": ["MLOps", "Cloud", "Kubernetes"],
