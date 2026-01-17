@@ -1,347 +1,155 @@
-# Hi there, I'm Mohamed Amine Elabidi 👋
+# Mohamed Amine Elabidi
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=AI%20AGENT%20ENGINEER&fontSize=40&fontAlign=50&fontAlignY=35&fontColor=fff&animation=twinkling" />
-</div>
+  
+**AI Agent Engineer** | **LLM Specialist** | **MLOps Architect**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Agent+Engineer+%7C+LLM+Specialist;Automation+Architect+%7C+MLOps+Expert;Building+Intelligent+Systems+That+Scale;Transforming+Complex+Workflows+into+AI+Solutions" alt="Typing Animation" />
-</div>
+Building production-ready intelligent systems that transform complex workflows into scalable AI solutions
 
----
-
-## 🎯 About Me
-
-<img align="right" alt="AI Development" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-I architect and deploy **production-ready, multi-agent systems** and leverage **Large Language Models (LLMs)** to automate complex business workflows. My focus is on building intelligent, scalable, and efficient AI solutions that bridge the gap between advanced technology and tangible business value.
-
-Currently, I'm an **AI Agent Engineer at Valhko**, where I design the core agent-based intelligence for HR technology platforms.
-
-### 🔥 What I Do:
-- **Multi-Agent Orchestration**: Designing autonomous agent systems that collaborate seamlessly
-- **LLM Fine-tuning**: Custom models for specialized business domains  
-- **Production MLOps**: Zero-downtime deployment pipelines for AI systems
-- **Conversational AI**: Natural language interfaces that drive business actions
-- **End-to-End Solutions**: From data ingestion to user-facing applications
-
----
-
-## 🚀 Core Competencies
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Agent & LLM Orchestration
-- Multi-Agent Systems Design
-- RAG Architecture & Implementation
-- Prompt Engineering & Optimization
-- Fine-tuning & PEFT Techniques
-- Semantic Analysis & NLP
-
-### 🛠️ Full-Stack AI Development  
-- Backend Architecture (Python, FastAPI)
-- Database Design & Optimization
-- API Development & Integration
-- Cloud Deployment & Scaling
-- Frontend Integration
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ MLOps & Infrastructure
-- Model Deployment Pipelines
-- Containerization (Docker, Kubernetes)
-- Cloud Platforms (Azure, GCP, AWS)
-- Monitoring & Observability
-- Performance Optimization
-
-### 📊 Data Engineering & Analytics
-- ETL Pipeline Development
-- Real-time Data Processing
-- Interactive Dashboard Creation
-- Business Intelligence Solutions
-- Advanced Analytics Implementation
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-
-### 🌐 Backend & Cloud
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 📈 Analytics & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maelabidi/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:elabidimohamedamine@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 👨‍💻 About Me
 
-### 🤖 ARYA: AI-Powered Recruitment Platform
-
-**Revolutionary Multi-Agent HR Automation System**
-
-<table>
-<tr>
-<td width="60%">
-
-Engineered a sophisticated multi-agent architecture that transforms the entire recruitment lifecycle from a manual process into an intelligent, autonomous system.
-
-**Key Innovations:**
-- **Intelligent Job Creation**: LLM agents analyze market data and company requirements to craft optimized job descriptions
-- **Advanced CV Analysis**: Semantic analysis extracts skills, experience patterns, and cultural fit indicators with 95% accuracy  
-- **Dynamic Assessment Generation**: AI creates custom, tamper-resistant project evaluations tailored to specific roles
-- **Multi-Dimensional Scoring**: Real-time candidate evaluation combining technical skills, soft skills, and growth potential
-
-**Business Impact:**
-- 78% reduction in time-to-hire
-- 92% improvement in candidate-role fit accuracy
-- 60% decrease in recruitment costs
-
-</td>
-<td width="40%">
+I architect and deploy **multi-agent AI systems** that solve real business challenges. Currently serving as an AI Agent Engineer at **Valhko**, where I design intelligent automation for HR technology platforms. My work focuses on bridging cutting-edge AI research with production-grade applications that deliver measurable impact.
 
 ```python
-# Multi-Agent Architecture Example
-class RecruitmentOrchestrator:
+class AIEngineer:
     def __init__(self):
-        self.agents = {
-            'job_crafter': JobCraftingAgent(),
-            'cv_analyzer': CVAnalysisAgent(), 
-            'assessor': AssessmentAgent(),
-            'scorer': ScoringAgent()
-        }
+        self.role = "AI Agent Engineer"
+        self.company = "Valhko"
+        self.focus = ["Multi-Agent Systems", "LLM Orchestration", "MLOps"]
+        self.philosophy = "Build systems that scale, automate, and deliver value"
     
-    async def process_application(self, cv, job_req):
-        # Parallel agent processing
-        analysis = await self.agents['cv_analyzer']
-                        .analyze(cv)
-        
-        assessment = await self.agents['assessor']
-                          .generate_custom_test(
-                              job_req, analysis.skills
-                          )
-        
-        return await self.agents['scorer']
-                    .evaluate_candidate(
-                        analysis, assessment.results
-                    )
+    def current_mission(self):
+        return "Transforming HR workflows through intelligent automation"
 ```
 
-</td>
-</tr>
-</table>
+## 🎯 Core Expertise
 
-**Technology Stack**: `Python` `FastAPI` `OpenAI GPT-4` `PostgreSQL` `Docker` `Azure` `Redis` `LangChain`
+**AI & Machine Learning**
+- Multi-Agent System Architecture & Orchestration
+- Large Language Model Fine-tuning & Optimization
+- RAG (Retrieval-Augmented Generation) Implementation
+- Prompt Engineering & Advanced NLP
+- Production ML Pipeline Design
+
+**Engineering & Operations**
+- MLOps & Model Deployment Pipelines
+- Cloud Infrastructure (Azure, AWS, GCP)
+- Backend Development (Python, FastAPI, Flask)
+- Containerization & Orchestration (Docker, Kubernetes)
+- Database Design & Optimization (PostgreSQL, MongoDB, Redis)
+
+**Data & Analytics**
+- ETL Pipeline Development
+- Real-time Data Processing
+- Business Intelligence Solutions
+- Interactive Dashboard Creation (Power BI)
+- Advanced Statistical Analysis
+
+## 🚀 Featured Projects
+
+### 🤖 ARYA: AI-Powered Recruitment Platform
+> Revolutionary multi-agent system automating end-to-end recruitment workflows
+
+Engineered a sophisticated AI platform that reduces time-to-hire by 78% through intelligent automation of job creation, CV analysis, assessment generation, and candidate scoring.
+
+**Key Achievements:**
+- 92% improvement in candidate-role fit accuracy
+- 60% reduction in recruitment operational costs
+- Real-time semantic analysis with 95% accuracy
+- Tamper-resistant automated assessment generation
+
+**Tech Stack:** `Python` `FastAPI` `OpenAI GPT-4` `PostgreSQL` `Docker` `Azure` `LangChain` `Redis`
 
 ---
 
 ### 🧠 AI Fusion Analyst: Conversational Data Intelligence
+> Natural language interface unifying structured databases with unstructured documents
 
-**The Ultimate Data Whisperer - Bridging Structured and Unstructured Data**
+Built an intelligent system that translates business questions into optimized SQL queries while seamlessly integrating document context for comprehensive insights.
 
-<table>
-<tr>
-<td width="40%">
-
-```sql
--- Auto-Generated Query Example
-SELECT 
-    departments.name,
-    COUNT(employees.id) as total_employees,
-    AVG(employees.salary) as avg_salary,
-    MAX(employees.hire_date) as latest_hire
-FROM departments 
-JOIN employees ON departments.id = employees.dept_id
-WHERE employees.status = 'active'
-AND employees.hire_date >= '2024-01-01'
-GROUP BY departments.name
-ORDER BY avg_salary DESC;
-```
-
-**Query Performance:**
-- Response Time: < 200ms
-- Accuracy: 98.5%
-- Complex Query Support: ✅
-- Multi-table Joins: ✅
-
-</td>
-<td width="60%">
-
-Built a conversational AI that doesn't just query databases—it understands context, reasons about data relationships, and provides intelligent insights by combining structured data with document intelligence.
-
-**Breakthrough Features:**
-- **Natural Language to SQL**: Converts business questions into optimized database queries automatically
-- **Contextual RAG Integration**: Seamlessly combines database insights with relevant document context
-- **Self-Optimizing Queries**: Machine learning-powered query optimization based on usage patterns
-- **Multi-Modal Intelligence**: Unifies quantitative database analysis with qualitative document insights
-- **Real-Time Adaptation**: Learns from user interactions to improve response accuracy
-
-**Business Impact:**
-- 85% reduction in analyst query time
+**Impact:**
+- 85% reduction in data analyst query time
+- 98.5% query accuracy with sub-200ms response time
 - Democratized data access for non-technical teams
 - 40% increase in data-driven decision making
 
-</td>
-</tr>
-</table>
-
-**Technology Foundation**: `Python` `PostgreSQL` `ChromaDB` `LangChain` `OpenAI Embeddings` `FastAPI` `Streamlit`
+**Tech Stack:** `Python` `PostgreSQL` `ChromaDB` `LangChain` `OpenAI Embeddings` `FastAPI` `Streamlit`
 
 ---
 
-### ⚽ Football Analytics: Tactical Intelligence Engine
+### ⚽ Football Tactical Intelligence Engine
+> Predictive analytics system for team formation and tactical decisions
 
-**Predictive Sports Analytics with 92% Accuracy**
+Developed ML models analyzing player statistics, weather conditions, injuries, and historical data to predict tactical decisions with 92% accuracy.
 
-<table>
-<tr>
-<td width="50%">
+**Performance Metrics:**
+- 92% prediction accuracy, 89% precision, 94% recall
+- Sub-50ms prediction latency
+- Real-time tactical adaptation during live matches
+- Interactive strategy simulation environment
 
-Developed a comprehensive machine learning system that analyzes multiple data sources to predict team formations and tactical decisions with unprecedented accuracy.
+**Tech Stack:** `Python` `Flask` `Scikit-Learn` `XGBoost` `Pandas` `Docker` `RESTful APIs`
 
-**Advanced Analytics:**
-- **Multi-Factor Prediction**: Player statistics, weather, injuries, historical matchups
-- **Real-Time Adaptation**: Dynamic model updates during live matches
-- **Tactical Simulation**: Interactive strategy testing environment
-- **Performance Insights**: Detailed reasoning behind each prediction
-
-**Model Performance Metrics:**
-- **Accuracy**: 92%
-- **Precision**: 89%
-- **Recall**: 94%
-- **F1-Score**: 91%
-- **Prediction Speed**: < 50ms
-
-</td>
-<td width="50%">
-
-```python
-# Tactical Prediction Pipeline
-class TacticalPredictor:
-    def __init__(self):
-        self.models = {
-            'formation': FormationClassifier(),
-            'lineup': LineupPredictor(),
-            'substitution': SubstitutionTiming()
-        }
-        
-    def predict_tactics(self, match_context):
-        features = self.extract_features(
-            match_context.players,
-            match_context.opponent_history,
-            match_context.conditions
-        )
-        
-        formation = self.models['formation']
-                       .predict_proba(features)
-        
-        lineup = self.models['lineup']
-                    .generate_optimal_xi(
-                        formation, features
-                    )
-        
-        return TacticalRecommendation(
-            formation=formation,
-            lineup=lineup,
-            confidence=self.calculate_confidence()
-        )
-```
-
-</td>
-</tr>
-</table>
-
-**Deployment Architecture**: `Python` `Flask` `Scikit-Learn` `XGBoost` `Pandas` `Docker` `RESTful APIs`
-
----
-
-## 📊 GitHub Analytics
+## 💻 Technical Arsenal
 
 <div align="center">
-  
-**⚠️ Note: Statistics are now configured with your GitHub username: mohamedamineelabidi**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedamineelabidi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamineelabidi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedamineelabidi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamineelabidi&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamineelabidi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedamineelabidi&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 </div>
 
----
+## 🤝 Let's Collaborate
 
-## 🌟 Professional Network
+I'm actively seeking opportunities to collaborate on innovative AI projects, particularly in:
 
-<div align="center">
+- **Multi-Agent System Development** – Designing autonomous, collaborative AI architectures
+- **LLM Fine-tuning & Optimization** – Custom models for specialized domains
+- **Production MLOps** – Building robust, scalable ML deployment pipelines
+- **AI Consulting** – Strategic guidance on AI implementation and ROI optimization
 
-### Let's Build the Future of AI Together
-
-I'm actively seeking collaborations on cutting-edge AI projects, particularly in:
-
-**🔹 Multi-Agent Systems** | **🔹 LLM Orchestration** | **🔹 Production MLOps** | **🔹 AI Consultation**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maelabidi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elabidimohamedamine@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-
-<br>
-
-### 📈 Current Status
-[![Status](https://img.shields.io/badge/Status-Available_for_Collaboration-brightgreen?style=for-the-badge)](#)
-[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)](#)
-[![AI Innovation](https://img.shields.io/badge/Focus-AI%20Innovation-blue?style=for-the-badge)](#)
-
-</div>
+**Open to:** Full-time opportunities, consulting projects, open-source collaborations, and technical partnerships.
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedamineelabidi&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
+**"Building intelligent systems that don't just automate—they transform."**
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=mohamedamineelabidi&style=flat&color=58A6FF)
 
-<div align="center">
-  <sub>💜 Crafted with passion for AI excellence • Always learning, always building</sub>
 </div>
