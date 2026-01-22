@@ -10,7 +10,7 @@
 
 # Mohamed Amine El Abidi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Data+%26+AI+Engineer;Crafting+Intelligence+at+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+%26+AI+Engineer+%F0%9F%9A%80;Building+Intelligent+Systems+at+Scale;Turning+Data+into+Decisions+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -30,6 +30,12 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/📍_Rabat,_Morocco-161B22?style=flat-square"/>
+<img src="https://img.shields.io/badge/💼_Open_to_Opportunities-238636?style=flat-square"/>
+
+<br/>
+
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=mohamedamineelabidi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
 
 </div>
 
@@ -42,24 +48,27 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> About
 
-```javascript
-const amine = {
-    role: "Data & AI Engineer",
-    company: "Upfund",
-    location: "Rabat, Morocco 🇲🇦",
-    
-    expertise: [
-        "Distributed Data Systems",
-        "AI Agents & RAG Pipelines",
-        "Cloud-native Architectures"
-    ],
-    
-    industries: ["Retail", "Real Estate", "HR-Tech"],
-    
-    currentFocus: "Building geospatial intelligence systems",
-    
-    lifePhilosophy: "Data first, intelligence second."
-};
+```typescript
+class DataEngineer {
+  readonly name = "Mohamed Amine El Abidi";
+  readonly role = "Data & AI Engineer";
+  readonly company = "Upfund";
+  readonly location = "Rabat, Morocco 🇲🇦";
+
+  readonly expertise = [
+    "Distributed Data Systems",
+    "AI Agents & RAG Pipelines", 
+    "Cloud-native Architectures",
+    "Geospatial Intelligence"
+  ] as const;
+
+  readonly industries = ["Retail", "Real Estate", "HR-Tech"] as const;
+  
+  readonly currentFocus = "Building geospatial intelligence systems";
+  readonly goals2026 = ["Contribute to Open Source", "Scale AI Systems"];
+  
+  readonly philosophy = "Data first, intelligence second. 🎯";
+}
 ```
 
 <br/>
@@ -251,6 +260,20 @@ const amine = {
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedamineelabidi&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
+<br/><br/>
+
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedamineelabidi&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" width="95%"/>
+
+<br/>
+
+<!-- SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamedamineelabidi/mohamedamineelabidi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamedamineelabidi/mohamedamineelabidi/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamedamineelabidi/mohamedamineelabidi/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
 </div>
 
 <br/>
@@ -280,15 +303,44 @@ const amine = {
 
 <br/>
 
+<!-- SPOTIFY / NOW PLAYING (Optional) -->
+<!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" /> -->
+
+<br/>
+
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 <br/>
 
+<table>
+<tr>
+<td>
 <img src="https://komarev.com/ghpvc/?username=mohamedamineelabidi&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+</td>
+<td>
+<img src="https://img.shields.io/github/followers/mohamedamineelabidi?style=for-the-badge&color=58A6FF&labelColor=0D1117&logo=github"/>
+</td>
+<td>
+<img src="https://img.shields.io/github/stars/mohamedamineelabidi?style=for-the-badge&color=F5A623&labelColor=0D1117&logo=github"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 <br/><br/>
 
-<sub>✨ *"Data first, intelligence second."* ✨</sub>
+<sub>⚡ *"Data first, intelligence second."* — Made with 💙 in Morocco 🇲🇦</sub>
+
+<br/>
+
+<a href="#top"><img src="https://img.shields.io/badge/⬆_Back_to_Top-161B22?style=for-the-badge"/></a>
 
 </div>
