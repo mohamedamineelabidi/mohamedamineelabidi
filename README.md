@@ -1,6 +1,10 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
+  <img src="https://github.com/mohamedamineelabidi/mohamedamineelabidi/blob/main/banner.jpg?raw=true" alt="Banner" width="100%"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=Mohamed%20Amine%20El%20Abidi&fontSize=38&fontColor=E6EDF3&fontAlignY=45&desc=Data%20%26%20AI%20Engineer%20·%20Distributed%20Systems%20·%20AI%20Agents&descAlignY=65&descColor=8B949E" />
 </p>
 
