@@ -163,6 +163,7 @@ class DataEngineer {
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 
 </td>
 </tr>
@@ -332,6 +333,33 @@ class DataEngineer {
 ```
 
 **Tech:** `LangChain` `OpenAI` `FastAPI` `Qdrant`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚡ n8n Workflow Automation Platform
+
+<img src="https://img.shields.io/badge/Status-Production-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/Type-Automation-EA4B71?style=flat-square"/>
+
+<sub>Workflow Automation · Integration</sub>
+
+<br/>
+
+```
+🔗 API Integrations
+🤖 AI-Powered Workflows
+📧 Email Automation
+🔄 Data Synchronization
+⏱️ Scheduled Tasks
+```
+
+**Tech:** `n8n` `Webhooks` `REST APIs` `JavaScript`
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
