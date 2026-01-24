@@ -86,8 +86,7 @@ class DataEngineer {
 |:----------|:------|
 | 💼 Years of Experience | **2+** |
 | 🚀 Projects Delivered | **10+** |
-| 🤖 AI Agents Built | **6+** |
-| 📦 Data Processed | **3.93+ TB** |
+| 🤖 AI Agents Built | **20+** |
 
 </div>
 
