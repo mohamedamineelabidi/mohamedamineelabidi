@@ -55,15 +55,15 @@ Telecom support assistant. Reads router LEDs from the phone camera with computer
 </td>
 <td width="50%" valign="top">
 
-### [career-pipeline](https://github.com/mohamedamineelabidi/career-pipeline)
-Local first job search workspace. Collects openings, scores them against an evidence backed CV, tracks applications. Drafts every message, never sends one.
+### [job-intelligent](https://github.com/Ridadata/job-intelligent)
+Job matching platform for data roles, built with a partner. Pulls offers from Adzuna, JSearch, France Travail and Moroccan job boards into a Bronze, Silver, Gold lakehouse, then matches CVs with Sentence-BERT and pgvector. Every score comes with the matched and missing skills.
 
-`Python` `FastAPI` `SQLite`
+`Airflow` `Scrapy` `pgvector` `FastAPI` `React` `Power BI`
 </td>
 </tr>
 </table>
 
-Also on this account: [Litflow-backend](https://github.com/mohamedamineelabidi/Litflow-backend) (research paper aggregator, FastAPI + Supabase), [realestate-rag](https://github.com/mohamedamineelabidi/realestate-rag), [AirflowLab](https://github.com/mohamedamineelabidi/AirflowLab), [Startup-Success-Prediction](https://github.com/mohamedamineelabidi/Startup-Success-Prediction), [my_dbt_project](https://github.com/mohamedamineelabidi/my_dbt_project).
+Also on this account: [career-pipeline](https://github.com/mohamedamineelabidi/career-pipeline) (job search workspace, drafts and never sends), [Litflow-backend](https://github.com/mohamedamineelabidi/Litflow-backend) (research paper aggregator, FastAPI + Supabase), [realestate-rag](https://github.com/mohamedamineelabidi/realestate-rag), [AirflowLab](https://github.com/mohamedamineelabidi/AirflowLab), [Startup-Success-Prediction](https://github.com/mohamedamineelabidi/Startup-Success-Prediction), [my_dbt_project](https://github.com/mohamedamineelabidi/my_dbt_project).
 
 ## How I work
 
