@@ -1,12 +1,9 @@
 <img src="./banner.png" alt="" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/148876385?v=4" alt="" width="80" align="left" style="margin-right:16px"/>
 
 ## Mohamed Amine El Abidi
 
 Data and AI engineer in Rabat. I build agents that do real work, retrieval that cites its sources, and the pipelines underneath. Currently at Upfund on Vertex AI agents and a FastAPI backend on GCP.
-
-<br clear="left"/>
 
 ## Projects
 
@@ -20,7 +17,18 @@ More: [career-pipeline](https://github.com/mohamedamineelabidi/career-pipeline) 
 
 ## Stack
 
-Python · SQL · FastAPI · LangGraph · PostgreSQL · Qdrant · Kafka · Spark · Airflow · dbt · Docker · GCP · Azure
+| | |
+|---|---|
+| Languages | Python, SQL, TypeScript, Bash |
+| Data engineering | Kafka, Spark, Flink, Airflow, dbt, Hadoop, Trino, DuckDB |
+| Databases | PostgreSQL, PostGIS, pgvector, Cassandra, Supabase, Redis, Qdrant |
+| AI and agents | LangGraph, LangChain, Vertex AI, Azure OpenAI, Sentence-BERT, RAG with citations |
+| ML and vision | PyTorch, scikit-learn, XGBoost, ONNX, OpenCV, spaCy |
+| Backend | FastAPI, REST, JWT auth, WebSockets, Firebase |
+| Frontend | React, Angular, Vite |
+| Cloud and ops | GCP, Azure, Docker, GitHub Actions, Grafana |
+| Analytics | Power BI, Streamlit, Jupyter |
+| Automation | n8n, Scrapy |
 
 ## Contact
 
