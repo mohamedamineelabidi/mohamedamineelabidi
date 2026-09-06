@@ -3,7 +3,9 @@
 
 ## Mohamed Amine El Abidi
 
-Data and AI engineer in Rabat. I build agents that do real work, retrieval that cites its sources, and the pipelines underneath. Currently at Upfund on Vertex AI agents and a FastAPI backend on GCP.
+AI & Data Engineer in Rabat, Morocco. I build LLM agents that do real work, retrieval that cites its sources, computer vision that runs live, and the data pipelines underneath. Currently Applied AI Engineer at Orange on Netix, an AI network support assistant (computer vision + multilingual voice).
+
+Portfolio, with an agent you can ask about my work: **[mohamedamine.is-a.dev](https://mohamedamine.is-a.dev)** · [LinkedIn](https://www.linkedin.com/in/meelabidi) · elabidimohamedamine@gmail.com
 
 ## Projects
 
